@@ -1,0 +1,1545 @@
+ In our 2014 Readers' Choice Awards, we asked readers to tell us the coolest thing they've done with Linux. There were so many great responses, but we didn't have room for all of them in the magazine, so we're listing more of the best ones here. Enjoy!
+
+Building my procmail pre-spam spam filter back in mid-late 90s.
+
+450-node compute cluster.
+
+7.1 channel preamp with integrated mopidy music player.
+
+A robot running Linux (for the Eurobot annual competition).
+
+A song. Trust me that's awesome.
+
+Accidentally printed on the wrong continent.
+
+Adding an audio channel to a video while also syncing it.
+
+Adding missing features to an existing program.
+
+Air Conditioning.
+
+Analyzed NASA satellite data with self-written code.
+
+Annoyed the cat remotely.
+
+Asterisk PBX.
+
+Attached a temperature sensor to a Raspberry Pi and showed the saved data on a Web site.
+
+Automated a BitTorrent server, file server and media streamer, built from miscellaneous server parts.
+
+Automated a forensic laboratory.
+
+Automated my entire lighting setup in my house to respond to voice and my mobile apps.
+
+Automated my photo studio.
+
+Automated video transcoding.
+
+Automatic window plant irrigation system.
+
+Automobile maintenance log written in C/C++ using Qt3 and MySQL.
+
+Aviation monitoring with a cheap USB SDR.
+
+Bacnet integration of weather data.
+
+Bathroom radio.
+
+Brewing beer
+
+Build a Linux smart home.
+
+Build an application that runs on the International Space Station.
+
+Build my own distro from scratch.
+
+Build my own kernel, write a device driver.
+
+Build my own www2e-mail server.
+
+Build your own everything server.
+
+Building a multi-retro-gaming console with a Raspberry Pi.
+
+Built a MythTv server.
+
+Built a mini-music hosting server for the office.
+
+Built a system for real-time toll collection for a major toll highway system.
+
+Built a video management system.
+
+Built electro-mechanical games.
+
+Built fully automated, scalable, high-traffic production Web sites.
+
+Built my first Linux box from scratch.
+
+Built my own DVR using LinHES.
+
+Built our own smartphone.
+
+Built a Web-based home alarm system on a Raspberry Pi.
+
+Building a monitoring solution with 1wire and a Raspberry Pi.
+
+CNC controller.
+
+Changed the OS on my phone.
+
+Chrome casting.
+
+Clone VMs, though I'm looking at building an HTPC soon with Ubuntu + XBMC.
+
+Cluster of Raspberry Pis to crack encrypted office documents.
+
+Colossalcast.sh, a script to get images from a Web site a see them in my image viewer.
+
+Completely replaced Microsoft products in my personal life.
+
+Computational fluid dynamics.
+
+Configure LXLE distro for enterprise.
+
+Configure it to be used by my no-IT-friendly girlfriend.
+
+Configure the desktop exactly the way I need it to do my work. Stump WM + Conky + Emacs + Etc.
+
+Configured domotics and a media center using Raspberry Pi in my car.
+
+Connect Bluetooth mobile phone headset to work with Skype on Linux.
+
+Connect to a weather station with telnet.
+
+Control EtherCat IO using Orocos.
+
+Control HVAC system.
+
+Control radio telescopes!
+
+Control a 50 ft tall array of radiation sensors.
+
+Controlled my Parrot drone.
+
+Controlled my own survey data with lime survey on a sub-domain.
+
+Controlled physical relays and lights with a Raspberry Pi.
+
+Controlled the comms for 186 wind turbines.
+
+Controlling a professional combi steamer.
+
+Controlling my Meade telescope with Stellarium under Linux.
+
+Convert my Mom to Linux only.
+
+Convert my old VHS family video. Use a laptop older than 10 years old.
+
+Converted small companies away from Windows to Linux.
+
+Cooked my very own OS from scratch.
+
+Cracked Windows servers just to prove how insecure they are.
+
+Create a 260.000 record database with LAMPP.
+
+Create a mesh network in the subarctic.
+
+Created a script to rip and tag CDs using cdparanoia as the ripper and custom tools for tagging.
+
+Created a secure media player using Ubuntu.
+
+Created a tool to create a hardware discovery database.
+
+Created an ocean environmental sensor buoy with radio data transmitter.
+
+Created my own Arduino home security system.
+
+Created my own PROPER company logo using Inkscape.
+
+Created a touchscreen driver Digix TAB1030.
+
+Custom maps with OpenStreetMap, Tilemill and PostGis.
+
+DJ-ing with mixxx.
+
+DRC — Digital Room Correction.
+
+Deployed development nixos-containers to my local dev machine using NixOps.
+
+Designed and built the infrastructure for the 4th busiest Web site in Africa.
+
+Determine DNA sequence counts?
+
+Developed a full-fledged Web application using only Linux tools.
+
+Developed a virtual screening approach for drug discovery.
+
+Developing a rootkit (for educational purposes!).
+
+Discovered new planets.
+
+Discovering the Lament Configuration screensaver.
+
+Diskless thin clients with nfs boot.
+
+Ditch windows.
+
+Do homework without Windows or (other).
+
+Downloaded a pre-0.9 version of the kernel and read the source code in one weekend.
+
+Driven a 3D printer with a RAMPS board.
+
+Earned a cool half million!
+
+Entire library system running Linux: servers and clients.
+
+Fedora 20 mail server.
+
+Filtered several batches of hundreds of audio files with sox and a simple bash shell script.
+
+First time I booted a PC into Linux SLS in 1993.
+
+First time in 1995 managed to install/compile Linux from pile of dozens of 3.5" diskettes.
+
+Fix Windows PCs using live distros.
+
+Fixed a jabber server in Denver, USA while in a hotel lobby in Amman, Jordan.
+
+Fixed several inoperative/bricked Windows systems with various problems.
+
+Forensic recovery of data on a drive that the owner knew had been erased.
+
+Freed my family of the consumer world of proprietary consumption
+
+Gambling/vending machines.
+
+Geoip-based routing out of China.
+
+Get the best job in the world.
+
+Give new life to aging Windows PCs.
+
+Got Linus' autograph on a Red Hat 5.0 CD.
+
+Got my Kodak printer working by having to create a PPD.
+
+Got my wife to use it, and she is not complaining. Trust me, that is an accomplishment.
+
+Hacked my coffee machine to send me a text message when the coffee is ready.
+
+Hacked school network.
+
+Handbrake and OMGRip.
+
+Helped a Windows user who had forgotten his password in 5 minutes.
+
+Host my own weather station on a Raspberry Pi.
+
+I made a Samba authentication server with integrated Active Directory and other network services.
+
+I set up a 10 server rendering farm using SuseLinux.
+
+I was able to overclock my phone CPU while commuting to work.
+
+Ignored viruses.
+
+Implement multi-petabyte databases.
+
+Install an up-to-date OS in 30 min instead of 3 days with Microsoft-based OS.
+
+Install and remote control a house via ssh.
+
+Installed Linux on an old iPod Nano.
+
+Installed it in my girlfriend's computer, as a replacement for Windows, and she likes it.
+
+Installed more than 75 distros.
+
+Introduced my daughter to Lego Mindstorm EV3.
+
+It runs my microprocessor-based leg.
+
+Kept a server online for two years without a reboot.
+
+LDAP MMR with 90 nodes.
+
+LaTeX document creation - Embedded OS.
+
+Laptop for use in cell use by prisoners.
+
+Laser controlling.
+
+Launch a spaceship.
+
+Learn how to use Vim.
+
+Learned to code.
+
+Linked my TVs, stereos and phones all into one multi-room system.
+
+Login via USB Stick (pam_usb).
+
+Made a Twitter-feed picture frame.
+
+Made a home-grown PBX / telephone system (these were the days before Asterisk).
+
+Made a media server with Plex Media Server and RaspBMC on the Raspberry Pi with Plex addon.
+
+Made a Wi-Fi access point out of an old computer.
+
+Made money writing apps for Linux.
+
+Made my own custom Linux OS.
+
+Managed SGI Altix UV supercomputers running SuSE Linux.
+
+Managed to finally eliminate MS Windows OS and related products from my desktop.
+
+Managed to get Oracle/Tora working in a 32-bit environment.
+
+Managing concurrent jobs with BASH.
+
+Master's degree.
+
+Mediagoblin server to replace youtube, flicker, etc.
+
+Modified Ubuntu desktop to be almost exactly like Mac OS X in terms of look and feel.
+
+Monitor temp and humidity of wine cellar and open doors when too hot or humid.
+
+Monitor the environment (temperature, humidity) and position of my boat in real time.
+
+Monitor the power of the house and sent an alarm to me if it fails.
+
+Moved my wife off of OS X to Xubuntu, and she is actually more productive now.
+
+Multi-systems games emulator with a Raspberry Pi.
+
+Multithreaded PERL data collection system.
+
+Music creation.
+
+My Raspberry Pi with CrashPlan. Not that cool, but saving me money every year.
+
+My Spanish practice software—database/flashcards/reader.
+
+My Ubuntu-based totally paper-free office.
+
+Never worry about malware or viruses. That's cool.
+
+New life to old machines destined for e-waste.
+
+Not having to fire up my Windows VM for more than 2 years!
+
+Offload my DNS/DHCP/LDAP/NTP/SYSLOG to several BeagleBone Black boxes.
+
+POS terminal.
+
+PXE booting and 400+ Linux Xubuntu clients with SaltStack on a nation-wide MPLS network.
+
+Passed a media design class with GIMP.
+
+Penetration testing.
+
+Personal DVR with MythTV.
+
+Personal PBX with Freeswitch.
+
+Play native games on Linux.
+
+Ported a multi-terabyte database and all the application programs from Solaris to Linux.
+
+Process radio astronomy data with AIPS ++ to image black holes many millions of light years away.
+
+Programmed a simple Python game with my daughter.
+
+Programmed an RNA sequencer.
+
+Programming Arduino.
+
+Provide international science training.
+
+Provide secure movie/audio streaming on a plane.
+
+Puppet / Razor auto-deployment of a data center.
+
+Put a toilet on the Internet: @iotoilets.
+
+Python library generating stories instead of programs.
+
+Quadrics HPC interconnect for the Chinese Supercomputer (in 2004!).
+
+Quiz competition system as those seen on TV.
+
+Ran my entire corporation for 6 years using only the Linux OS.
+
+Rapid webapp prototyping with Spring Roo and ZKoss GUI framework.
+
+RPi-based wallboard using xscreensaver/phosphor modul.
+
+Real-time access to all my data on all my devices.
+
+Receive data from Mars.
+
+Recovered files from dying hard drives for a friend.
+
+Recovered petabyte storage SAN, after the whole SAN was corrupted with a NAS head that went nuts.
+
+Re-image a running embedded Linux system using pivot_root.
+
+Remote X over reverse SSH proxy.
+
+Remote everything from the road, before tablets and pervasive Wi-Fi.
+
+Remote routers (not easy to get to locations) that “heal” themselves.
+
+Remove Google.
+
+Replaced the controller in my hot tub with a Raspberry Pi.
+
+Rescued a friend's data from a borked Windows machine using a CrunchBang live USB.
+
+Research and development to analyze space telescope data.
+
+Reverse engineering on Drobo.
+
+Run 8 Artemis Starship Bridges from Custom USB LiveCD builds.
+
+Run Debian on my Chumby.
+
+Run Knoppix from CD for the first time (2003) / built Linux from scratch (2003).
+
+Run Tor relay on Debian on BeagleBone Black.
+
+Run a distributed storage using ARM boards and Gluster.
+
+Run a model railroad in real time.
+
+Run a small 3D printing business from my house.
+
+Run servers with 170K TCP connections using a custom TCP stack on top of DLPI.
+
+Running Linux as the only OS for all my computers (servers/desktop/laptop) and phone (Jolla).
+
+Running a 6+ million dollar company on it.
+
+Saved days of time automating tasks with shell scripts.
+
+Scripted flite to speak evopedia entries on an n900 during a bus commute.
+
+Scripted opening and closing of a co-workers CD tray every 15 seconds for four days.
+
+Self-made real-time guitar effect on a P1 100 MHz.
+
+Set up a whole house server including a camera system to watch and talk to my dog.
+
+Set up an own server with owncloud, diaspora pod, teamspeak server and minecraft server.
+
+Set up firewall to monitor attacks floating across Comcast's network.
+
+Setup a Web cluster serving over 1 million Web sites.
+
+Setup a self-healing MySQL cluster.
+
+Simulated an alarm panel in real time.
+
+Squeezebox home music system.
+
+Taking over all the family computers so children grow up thinking Linux is normal.
+
+Taught humanoid robots to communicate.
+
+Teamviewer remote support.
+
+Test hard drives for harvesting of PCB.
+
+The Lego Movie, made entirely in CentOS.
+
+The first time I booted Slackware in 1993 and got a "#" prompt, used as early NCSA Web server.
+
+Time-lapse video from 300,000 pictures.
+
+Turned an ancient eeePC into a home print server.
+
+Turned an old wooden-cased radio into a network MP3 player using a Raspberry Pi.
+
+Use guitarix to play my guitar and bass.
+
+Use heyu (X10) to send email alert when door opened while I was on vacation.
+
+Use my tablet (Asus Transformer) as a fully capable coding tool (web).
+
+Used an LFS system to move ACH transfers for a national gas company.
+
+Used genemark-es to convert raw fungal genome sequence into list of predicted proteins.
+
+Used Linux for controlling wind turbine. In our 2014 Readers' Choice Awards, we asked readers to tell us the coolest thing they've done with Linux. There were so many great responses, but we didn't have room for all of them in the magazine, so we're listing more of the best ones here. Enjoy!
+
+Building my procmail pre-spam spam filter back in mid-late 90s.
+
+450-node compute cluster.
+
+7.1 channel preamp with integrated mopidy music player.
+
+A robot running Linux (for the Eurobot annual competition).
+
+A song. Trust me that's awesome.
+
+Accidentally printed on the wrong continent.
+
+Adding an audio channel to a video while also syncing it.
+
+Adding missing features to an existing program.
+
+Air Conditioning.
+
+Analyzed NASA satellite data with self-written code.
+
+Annoyed the cat remotely.
+
+Asterisk PBX.
+
+Attached a temperature sensor to a Raspberry Pi and showed the saved data on a Web site.
+
+Automated a BitTorrent server, file server and media streamer, built from miscellaneous server parts.
+
+Automated a forensic laboratory.
+
+Automated my entire lighting setup in my house to respond to voice and my mobile apps.
+
+Automated my photo studio.
+
+Automated video transcoding.
+
+Automatic window plant irrigation system.
+
+Automobile maintenance log written in C/C++ using Qt3 and MySQL.
+
+Aviation monitoring with a cheap USB SDR.
+
+Bacnet integration of weather data.
+
+Bathroom radio.
+
+Brewing beer
+
+Build a Linux smart home.
+
+Build an application that runs on the International Space Station.
+
+Build my own distro from scratch.
+
+Build my own kernel, write a device driver.
+
+Build my own www2e-mail server.
+
+Build your own everything server.
+
+Building a multi-retro-gaming console with a Raspberry Pi.
+
+Built a MythTv server.
+
+Built a mini-music hosting server for the office.
+
+Built a system for real-time toll collection for a major toll highway system.
+
+Built a video management system.
+
+Built electro-mechanical games.
+
+Built fully automated, scalable, high-traffic production Web sites.
+
+Built my first Linux box from scratch.
+
+Built my own DVR using LinHES.
+
+Built our own smartphone.
+
+Built a Web-based home alarm system on a Raspberry Pi.
+
+Building a monitoring solution with 1wire and a Raspberry Pi.
+
+CNC controller.
+
+Changed the OS on my phone.
+
+Chrome casting.
+
+Clone VMs, though I'm looking at building an HTPC soon with Ubuntu + XBMC.
+
+Cluster of Raspberry Pis to crack encrypted office documents.
+
+Colossalcast.sh, a script to get images from a Web site a see them in my image viewer.
+
+Completely replaced Microsoft products in my personal life.
+
+Computational fluid dynamics.
+
+Configure LXLE distro for enterprise.
+
+Configure it to be used by my no-IT-friendly girlfriend.
+
+Configure the desktop exactly the way I need it to do my work. Stump WM + Conky + Emacs + Etc.
+
+Configured domotics and a media center using Raspberry Pi in my car.
+
+Connect Bluetooth mobile phone headset to work with Skype on Linux.
+
+Connect to a weather station with telnet.
+
+Control EtherCat IO using Orocos.
+
+Control HVAC system.
+
+Control radio telescopes!
+
+Control a 50 ft tall array of radiation sensors.
+
+Controlled my Parrot drone.
+
+Controlled my own survey data with lime survey on a sub-domain.
+
+Controlled physical relays and lights with a Raspberry Pi.
+
+Controlled the comms for 186 wind turbines.
+
+Controlling a professional combi steamer.
+
+Controlling my Meade telescope with Stellarium under Linux.
+
+Convert my Mom to Linux only.
+
+Convert my old VHS family video. Use a laptop older than 10 years old.
+
+Converted small companies away from Windows to Linux.
+
+Cooked my very own OS from scratch.
+
+Cracked Windows servers just to prove how insecure they are.
+
+Create a 260.000 record database with LAMPP.
+
+Create a mesh network in the subarctic.
+
+Created a script to rip and tag CDs using cdparanoia as the ripper and custom tools for tagging.
+
+Created a secure media player using Ubuntu.
+
+Created a tool to create a hardware discovery database.
+
+Created an ocean environmental sensor buoy with radio data transmitter.
+
+Created my own Arduino home security system.
+
+Created my own PROPER company logo using Inkscape.
+
+Created a touchscreen driver Digix TAB1030.
+
+Custom maps with OpenStreetMap, Tilemill and PostGis.
+
+DJ-ing with mixxx.
+
+DRC — Digital Room Correction.
+
+Deployed development nixos-containers to my local dev machine using NixOps.
+
+Designed and built the infrastructure for the 4th busiest Web site in Africa.
+
+Determine DNA sequence counts?
+
+Developed a full-fledged Web application using only Linux tools.
+
+Developed a virtual screening approach for drug discovery.
+
+Developing a rootkit (for educational purposes!).
+
+Discovered new planets.
+
+Discovering the Lament Configuration screensaver.
+
+Diskless thin clients with nfs boot.
+
+Ditch windows.
+
+Do homework without Windows or (other).
+
+Downloaded a pre-0.9 version of the kernel and read the source code in one weekend.
+
+Driven a 3D printer with a RAMPS board.
+
+Earned a cool half million!
+
+Entire library system running Linux: servers and clients.
+
+Fedora 20 mail server.
+
+Filtered several batches of hundreds of audio files with sox and a simple bash shell script.
+
+First time I booted a PC into Linux SLS in 1993.
+
+First time in 1995 managed to install/compile Linux from pile of dozens of 3.5" diskettes.
+
+Fix Windows PCs using live distros.
+
+Fixed a jabber server in Denver, USA while in a hotel lobby in Amman, Jordan.
+
+Fixed several inoperative/bricked Windows systems with various problems.
+
+Forensic recovery of data on a drive that the owner knew had been erased.
+
+Freed my family of the consumer world of proprietary consumption
+
+Gambling/vending machines.
+
+Geoip-based routing out of China.
+
+Get the best job in the world.
+
+Give new life to aging Windows PCs.
+
+Got Linus' autograph on a Red Hat 5.0 CD.
+
+Got my Kodak printer working by having to create a PPD.
+
+Got my wife to use it, and she is not complaining. Trust me, that is an accomplishment.
+
+Hacked my coffee machine to send me a text message when the coffee is ready.
+
+Hacked school network.
+
+Handbrake and OMGRip.
+
+Helped a Windows user who had forgotten his password in 5 minutes.
+
+Host my own weather station on a Raspberry Pi.
+
+I made a Samba authentication server with integrated Active Directory and other network services.
+
+I set up a 10 server rendering farm using SuseLinux.
+
+I was able to overclock my phone CPU while commuting to work.
+
+Ignored viruses.
+
+Implement multi-petabyte databases.
+
+Install an up-to-date OS in 30 min instead of 3 days with Microsoft-based OS.
+
+Install and remote control a house via ssh.
+
+Installed Linux on an old iPod Nano.
+
+Installed it in my girlfriend's computer, as a replacement for Windows, and she likes it.
+
+Installed more than 75 distros.
+
+Introduced my daughter to Lego Mindstorm EV3.
+
+It runs my microprocessor-based leg.
+
+Kept a server online for two years without a reboot.
+
+LDAP MMR with 90 nodes.
+
+LaTeX document creation - Embedded OS.
+
+Laptop for use in cell use by prisoners.
+
+Laser controlling.
+
+Launch a spaceship.
+
+Learn how to use Vim.
+
+Learned to code.
+
+Linked my TVs, stereos and phones all into one multi-room system.
+
+Login via USB Stick (pam_usb).
+
+Made a Twitter-feed picture frame.
+
+Made a home-grown PBX / telephone system (these were the days before Asterisk).
+
+Made a media server with Plex Media Server and RaspBMC on the Raspberry Pi with Plex addon.
+
+Made a Wi-Fi access point out of an old computer.
+
+Made money writing apps for Linux.
+
+Made my own custom Linux OS.
+
+Managed SGI Altix UV supercomputers running SuSE Linux.
+
+Managed to finally eliminate MS Windows OS and related products from my desktop.
+
+Managed to get Oracle/Tora working in a 32-bit environment.
+
+Managing concurrent jobs with BASH.
+
+Master's degree.
+
+Mediagoblin server to replace youtube, flicker, etc.
+
+Modified Ubuntu desktop to be almost exactly like Mac OS X in terms of look and feel.
+
+Monitor temp and humidity of wine cellar and open doors when too hot or humid.
+
+Monitor the environment (temperature, humidity) and position of my boat in real time.
+
+Monitor the power of the house and sent an alarm to me if it fails.
+
+Moved my wife off of OS X to Xubuntu, and she is actually more productive now.
+
+Multi-systems games emulator with a Raspberry Pi.
+
+Multithreaded PERL data collection system.
+
+Music creation.
+
+My Raspberry Pi with CrashPlan. Not that cool, but saving me money every year.
+
+My Spanish practice software—database/flashcards/reader.
+
+My Ubuntu-based totally paper-free office.
+
+Never worry about malware or viruses. That's cool.
+
+New life to old machines destined for e-waste.
+
+Not having to fire up my Windows VM for more than 2 years!
+
+Offload my DNS/DHCP/LDAP/NTP/SYSLOG to several BeagleBone Black boxes.
+
+POS terminal.
+
+PXE booting and 400+ Linux Xubuntu clients with SaltStack on a nation-wide MPLS network.
+
+Passed a media design class with GIMP.
+
+Penetration testing.
+
+Personal DVR with MythTV.
+
+Personal PBX with Freeswitch.
+
+Play native games on Linux.
+
+Ported a multi-terabyte database and all the application programs from Solaris to Linux.
+
+Process radio astronomy data with AIPS ++ to image black holes many millions of light years away.
+
+Programmed a simple Python game with my daughter.
+
+Programmed an RNA sequencer.
+
+Programming Arduino.
+
+Provide international science training.
+
+Provide secure movie/audio streaming on a plane.
+
+Puppet / Razor auto-deployment of a data center.
+
+Put a toilet on the Internet: @iotoilets.
+
+Python library generating stories instead of programs.
+
+Quadrics HPC interconnect for the Chinese Supercomputer (in 2004!).
+
+Quiz competition system as those seen on TV.
+
+Ran my entire corporation for 6 years using only the Linux OS.
+
+Rapid webapp prototyping with Spring Roo and ZKoss GUI framework.
+
+RPi-based wallboard using xscreensaver/phosphor modul.
+
+Real-time access to all my data on all my devices.
+
+Receive data from Mars.
+
+Recovered files from dying hard drives for a friend.
+
+Recovered petabyte storage SAN, after the whole SAN was corrupted with a NAS head that went nuts.
+
+Re-image a running embedded Linux system using pivot_root.
+
+Remote X over reverse SSH proxy.
+
+Remote everything from the road, before tablets and pervasive Wi-Fi.
+
+Remote routers (not easy to get to locations) that “heal” themselves.
+
+Remove Google.
+
+Replaced the controller in my hot tub with a Raspberry Pi.
+
+Rescued a friend's data from a borked Windows machine using a CrunchBang live USB.
+
+Research and development to analyze space telescope data.
+
+Reverse engineering on Drobo.
+
+Run 8 Artemis Starship Bridges from Custom USB LiveCD builds.
+
+Run Debian on my Chumby.
+
+Run Knoppix from CD for the first time (2003) / built Linux from scratch (2003).
+
+Run Tor relay on Debian on BeagleBone Black.
+
+Run a distributed storage using ARM boards and Gluster.
+
+Run a model railroad in real time.
+
+Run a small 3D printing business from my house.
+
+Run servers with 170K TCP connections using a custom TCP stack on top of DLPI.
+
+Running Linux as the only OS for all my computers (servers/desktop/laptop) and phone (Jolla).
+
+Running a 6+ million dollar company on it.
+
+Saved days of time automating tasks with shell scripts.
+
+Scripted flite to speak evopedia entries on an n900 during a bus commute.
+
+Scripted opening and closing of a co-workers CD tray every 15 seconds for four days.
+
+Self-made real-time guitar effect on a P1 100 MHz.
+
+Set up a whole house server including a camera system to watch and talk to my dog.
+
+Set up an own server with owncloud, diaspora pod, teamspeak server and minecraft server.
+
+Set up firewall to monitor attacks floating across Comcast's network.
+
+Setup a Web cluster serving over 1 million Web sites.
+
+Setup a self-healing MySQL cluster.
+
+Simulated an alarm panel in real time.
+
+Squeezebox home music system.
+
+Taking over all the family computers so children grow up thinking Linux is normal.
+
+Taught humanoid robots to communicate.
+
+Teamviewer remote support.
+
+Test hard drives for harvesting of PCB.
+
+The Lego Movie, made entirely in CentOS.
+
+The first time I booted Slackware in 1993 and got a "#" prompt, used as early NCSA Web server.
+
+Time-lapse video from 300,000 pictures.
+
+Turned an ancient eeePC into a home print server.
+
+Turned an old wooden-cased radio into a network MP3 player using a Raspberry Pi.
+
+Use guitarix to play my guitar and bass.
+
+Use heyu (X10) to send email alert when door opened while I was on vacation.
+
+Use my tablet (Asus Transformer) as a fully capable coding tool (web).
+
+Used an LFS system to move ACH transfers for a national gas company.
+
+Used genemark-es to convert raw fungal genome sequence into list of predicted proteins.
+
+Used Linux for controlling wind turbine.
+
+Using N9 and Sailfish phones.
+
+Using a deprecated PC as a cheap but powerful media center with GeeXbox.
+
+Video on the command line.
+
+Video streaming a DVB-S signal to LAN via Multicast using VLC.
+
+Viewed Netflix with Pipelight!
+
+WAN monitor with text to voice phone calls from Asterisk.
+
+Watch European cable TV in the US with a pair of Raspberry Pis and a USB Tuner.
+
+Windows password crack.
+
+Work exclusively with Linux for the last 20 years.
+
+Worked in scientific research with Linux for the last 20 years.
+
+Write my own Point of Sale system with PHP/Apache/MySQL.
+
+Written a novel.
+
+Wrote a music composition program using genetic programming.
+
+Wrote a short book using LibreOffice and being able to read e-Books using eVince.
+
+Wrote bespoke Amiga ROM extractor.
+
+Wrote software for OpenEEG device.
+
+XBMC on RPi as mobile video player. It has the most WAF from all my projects.
+
+Audio bridge to my old analog stereo using a Raspberry Pi and arch arm.
+
+Automated most of my job away.
+
+Backup remote servers to my server, restore them into virtual machines as an archive.
+
+Backups based on cronjob and rsync.
+
+BitTorretsync for all my devices then backed up with Crashplan.
+
+Booting with “init=/usr/bin/emacs”.
+
+BTRFS raid0 with two SSDs on an ultrabook.
+
+Build a full enterprise network out of virtual machines including routers and switches.
+
+Build a Linux-powered remote-controlled boiling water cannon from an old Nespresso machine.
+
+Build and run a laboratory information system.
+
+Built an HD 3D streaming to webrtc bridge for doing streaming Web conferences in HD in Chrome.
+
+Built an automated blackjack dealer.
+
+Built an image processing module on a GumStix for optically controlling a quad-rotor drone.
+
+Chemometrics.
+
+Coherence checks on clinical systems.
+
+Compiler/make package to build a 5M non-comment lines of code.
+
+Completely set it up and customized in 20 mins.
+
+Create django-based web app that uses the computing library from another system.
+
+Developing Sailfish OS.
+
+Dual-boot two distros! For a technophobe like me that's a big deal!
+
+Edit my photos with RawTherapee, and blog with WordPress.
+
+Editing audio with Audacity.
+
+Flushed my toilet from another city.
+
+Getting freebsd working on a old sparc system!
+
+Had a Linux-hater use a desktop, and not realize it was Linux.
+
+Hydroponics system with periodic watering and level sensors controlling the pump.
+
+I have an Odroid at home that I use for almost everything. Since cifs shares to dlna server.
+
+Killed unity with gnome-panel/compiz/nemo-combo.
+
+Lately? Kerbal Space program.
+
+Microwave transmissions.
+
+Monitored and controlled a network of 1500 wireless network devices.
+
+Monte-Carlo simulation on a nice cluster of ~500 Linux nodes.
+
+Network security based on Security Onion—awesome project.
+
+Operate my amateur radio gear, ping the space station.
+
+Professional fridge monitoring using 4 Raspberry Pis to check 9 separate locations.
+
+Read Linux Journal.
+
+Record what I am listening to on the computer.
+
+Recovering photos from a damaged SD card.
+
+Remote admin of my Mum's Mac across the country.
+
+Remote chicken door.
+
+Replaced the lock on the front door with RPi-powered numpad.
+
+Replacing as400 terminals by cheap fat clients with tinycore Linux over tftp/tn5250.
+
+Root my phones.
+
+Script that prevent ddos attacks.
+
+Setup a Varnish cluster.
+
+Setup a mesh Wi-Fi network in an urban area, for traffic light control.
+
+SSH to my phone.
+
+Ticket scanning solution with Raspbian and flask tool to manage 10+ file sharing server (samba) via a Web interface.
+
+Trying to learn programming with Ruby on my own.
+
+Typesetting with groff, grap and pic.
+
+Weather station (weewx), ham radio control (fldigi).
+
+Weather/flood monitoring station with iridium sms on Raspberry Pi.
+
+Web-controlled integrated circuit wafer probe test system.
+
+I watched local TV over a DNS tunnel on a remote island in Indonesia and instructed my printer to have some books ready when I got home. This was 15 years ago.
+
+Used a single bash command line to count all unique words in a book-length document (using tr/sort/uniq).
+
+Implemented an entire Internet-accessible network at a community college, including routers and servers.
+
+Web-based sprinkler controller for 16 stations on a Raspberry Pi (also control the pool and yard lights.
+
+Measuring electrical power usage at our home where every watt used is entered into a MySQL database.
+
+Built a box that sits atop the refrigerator and logs the fridge and freezer temperatures AND displays the current up-to-the-minute weather forecast.
+
+Migrated an entire Web server/Samba server/Cyrus IMAP server from Fedora on x86_64 to Arch Linux on Raspberry Pi ARMv6.
+
+Built a physical version of the Android game Spaceteam with 4 large consoles covered in displays and switches.
+
+Used a couple of tools to de-obfuscate obfuscated java code and created diffs between multiple patched versions of this code and applied those patches to the original app to have all features of the patched versions in one app.
+
+Created a encrypted RAID'd home server that uses a USB stick as the key to auto-unlock the drive encryption.
+
+Solved the supposedly impossible for a large government department getting the data off a mainframe using Linux and all sorts of tools.
+
+Built a router out of an old PIII workstation with two NICs using iptables using Linux and much more, and built a private cloud with OpenStack.
+
+Run a gigantic radio telescope to investigate the local universe - mostly focused on dark energy. Seriously, so cool.
+
+Installed a PFsense box with two factor authentication to my LAN, which I used to mange my home (Linux machines) when I was bored with my Windows world at work.
+
+Deployed 20 servers to calculate and display the results of a complex algorithm in a single command using SaltStack.
+
+Transparent bridge with packet emulation to re-create the conditions of the Internet on our network communications in a lab environment.
+
+Reverse-engineered network protocol on closed-source Windows punch clock app and then wrote a clone on BASH. Years later rewrote it in Python.
+
+A PBX for a non-profit organization, using an old carrier router (Vodafone Station), a USB GSM dongle and some other spare parts, using OpenWRT.
+
+Use it every day, it's in my pocket and on my TV. It wakes me up and helps me to sleep. And will probably become Skynet.
+
+Irrigation system for my balcony garden using an Arduino and some Python daemons running on a server for deciding if it needs watering or not and how much based on weather forecasts and terrain humidity.
+
+Compile and package heavy software (NumPy, SciPy, Cython, etc) on devices (Nokia N900, Nokia N9, etc) running mobile Linux (Maemo 5, MeeGo Harmattan).
+
+Perl script to launch rdiff-backup in a remote mode in a multiuser environment optimizing the CPU load.
+
+Using a Raspberry Pi, a servo, a Yubikey and YubiRadius server, I made a door lock that only opened if the correct Yubikey was plugged in. The Raspberry Pi would take the one time password and ask the server if it was legit, and if so, the door unlocks.
+
+Isn't everything involving Linux cool? I live in Sweden but had traveled to Morocco to visit my wife's family. While there, I had a problem with the bank. So I used my Linux-loaded USB-stick I brought with me and then ssh -X to my computer at home, started Firefox over the line and logged in to my bank to fix the issue.
+
+Set up a home network using Samba as the file server, including a Web server, DNS server with four 2+ TB drives mirrored in sets of two with XFS files system (based on an article from Linux Journal).
+
+I wrote this simple Python program for live desktop wallpaper: sourceforge.net/projects/portalviewlivew. Not fancy or impressive, but for a 50+ grandmother who recently learned Python, it felt good to give something back to the Linux/Open Source community, and I get to enjoy the program I've been waiting years for someone to write.
+
+Real-time data acquisition: connecting your exercise bike to Informix.
+
+Data acquisition system for characterization and qualification of radiation detectors.
+
+Setup a document management system from scratch with Debian and Plone in half a day (the first Linux server in the company where I work. Now 80% of my servers run Red Hat Linux).
+
+Watched VVVID (video streaming service) from an iPad app to a TV using my homemade media center made with Linux (Ubuntu 10.04 on a fanless low-power-consumption board) via XBMC! Well, I manage hundreds of Windows workstations too at work with Linux servers and tools.
+
+Supercomputing on a supercomputer...since almost 100% of them run Linux. The speed tests were amazing.
+
+My old Fujitsu Siemens s series lifebook got a new life with Linux. I'm still using it. This machine is 12 years old. Cool, eh?
+
+Convert home network servers from a big VMware box to small Intel NUCs running XenServer and Ubuntu.CentOS VM Guests.
+
+I have a complete home network with Linux, from my router to my FTP/media server, 6 desktops, 4 laptops, two quilting machines running on Linux for my wife, and three tablets. At work (I work in IT at a casino), we have moved from pizza boxes to a VM using Cisco UCS and EMC storage.
+
+Chaining ssh-tunnels together to get from work to home via three hops due to restrictive network settings.
+
+Run an in-house radio station via a Raspberry Pi and pifm, icecast, the opus audio codec, and ffmpeg (experimental: project still in progress).
+
+I nominated Richard Nixon as the next President, even though he's already passed away, using only sed on the command line!
+
+Scripted out an entire environment in 2 hours, which normally takes 40 hours (note: Chef helped a lot).
+
+Create and manage a backup solution for my customers using 7 servers connected over OpenVPN, and the servers are in different cities, countries and continents!
+
+My Master's project: expanding and documenting a university-sited analytical instruments network, which uses a Slackware server.
+
+Built a system that monitors a renewable energy installation with two fixed solar arrays, a two-axis sun-tracking solar array, and a wind turbine. Production and weather data are displayed on a Web site in real time.
+
+Created a real-time watermark embedding system for streaming recorded lectures with the viewer's name embedded in the video (for copyright protection).
+
+1) Setup a Raspberry Pi and camera module home security system. Used my Jolla mobile phone with SSH to control, modify and view the system. 2) Built a hardware startup community utilizing Drupal on a LAMP server.
+
+Multi-site mobile one-time-password authentication servers using motp-as, mysql replication, apache, php, and free radius.
+
+Monitor 200 devices and 1000 services with nagios, saving our organization 1000s of dollars in licensing costs.
+
+Used it to model communication flow through a naval ship's NMEA data bus, showing “choke points” and potential for future growth. This enabled the addition of new sensors to provide more situational awareness within the Navy.
+
+Rebuilt a system from scratch without reboot or data loss after deleting /usr by accident. Given Linux systems to help a remote area in Africa get Internet access and recovered a deleted university thesis.
+
+Writing a FAT32 driver in Java on a Nokia N900, to restore a deleted squirrel video i took at Yosemite, while driving through Nevada on my holidays.
+
+Synchronized time-lapse of the met office weather map and the view of rain from my home, for the duration of a holiday in the sun.
+
+I model ancient ecosystems and simulate major disruptions, such as asteroid impacts and magmatic province eruptions. All on Linux.
+
+Running a complete Fedora server on a Hardkernel Odroid-U3 in the pocket of my coat with a battery pack for a couple of hours.
+
+Setup a fully working 64-node cluster in less than a morning using a Linux laptop with dhcpd/pxe/anaconda.
+
+Turned an interested but bemused 78-year-old Windows 7 user into a confident IT learner and user by installing Ubuntu 14.04 after Win7 crashed four times in 18 months on a brand-new laptop. Now undertaking Web site maintenance work unsupervised.
+
+I recompiled a plain vanilla Linux kernel, stripped it down to what I needed and patched it as my default kernel in Ubuntu 8.04 and it worked! I did this years ago. It was absolutely unstable and glitched all the time but was usable. I really enjoyed that experience and I looked forward to Linux's growth moving forward.
+
+Recycled bare-bones refurbished PCs by installing Linux and saving a bundle of money because of sharply reduced hardware costs.
+
+My ISP doesn't allow me to have more than one machine connected to the same Internet connection after I use port forwarding for my own home LAN. They do this by limited the TTL (Time to Live) value in the IP header to 1 hop. I use iptables to successfully increase the TTL value to allow for more computers on my network to utilize the Internet connection, using the following rule: iptables -t mangle -A PREROUTING -j TTL --ttl-inc.
+
+Ran a gateway/firewall on Debian Linux with DHCP, DNS, VPN, SSH, Samba file server, etc., for nine years on the same hardware; ran for 200–300 days at a time without a reboot.
+
+Setup a PC rental shop so when units were returned they could be PXE-booted and crunch for seti@home. This was based on Edubuntu.
+
+My own CI build farm and automated testing using Raspberry PI (HW), Jenkins (Builds), SaltStack (Jenkins and test setup), Yocto (build and variation) and Python (test cases).
+
+Activity monitoring system with mood recognition that plays back appropriate music or video, automatically turns on/off screens and lights.
+
+A few years ago, I built a MAME cabinet powered by an old PIII running Xubuntu. My design skills need improvement, but it worked great!
+
+A long term (1 year) project where I administered a colocated Linux server that had no firewall (used only tcpwrappers). Host was serving web pages and files to the world. At no point did the server ever get compromised.
+
+Phone switch out of a pogo plug that automatically dials out at 4 am to reserve a tee time at the local golf club.
+
+Back in the days of modems, I had my computer call up my girlfriend every morning, so she would wake up and to to work.
+
+Prediction of daily sales of bread for the retail company in Slovenia (for each shop separately, approx. 500 shops).
+
+Converted my cassette tapes to audio files. Yeah, I know, what could be cooler than hearing all that music on warped, partially eaten cassette tape, right?
+
+Converting consumer wireless routers into powerhouses letting me replace several servers and systems with a drop-in little device.
+
+Set up PXE-boot clustered servers in an aircraft for ground imagining in Afghanistan. Images would be transmitted to a ground station, where they would be streamed to Linux servers and ultimately displayed on MS Windows laptops.
+
+Created an multimedia art installation using Webcams and ZoneMinder to trigger changes to a display.
+
+A tee device that transparently captures printer jobs and back up the stream and a pdf for archive purposes.
+
+The best thing I have developed with Linux was a server's software that concentrates and manages multiple TCP connections with remote terminal units that is used by a great oil and gas company.
+
+I have a Plugable USB 2.0 Universal Laptop Docking Station hooked to my Fedora 20 workstation. It creates a second terminal so two people can be logged in to the computer at the same time [like Linux and Unix are supposed to do. I'm typing on that terminal. That's because my 12-yo grandson is on my main keyboard and screen in a Google Plus Hangout with his friend, screen-sharing his running program “Wizards 101”, which is a Windows game running under wine. If that ain't cool, I don't know what is.
+
+Peel code to pull info from 6000 employees to select a few to attend a meeting with the CEO each month. No management, and no repeats.
+
+Used a Wii controller, though Bluetooth, with my Linux computer as a Infrared Camera, to detect the movement of my daughter's Fisher Price Sit and Spin Pony, and to control a video game.
+
+Integrate open-source ERP, payment gateway Web service and postal delivery Web service to create an end-to-end automated e-commerce system with 100% open-source software and tools.
+
+Record football games in glorious high definition, including stopping the recording when the game is actually over, not when the scheduled broadcast slot ends. Never miss overtime again!
+
+Used it to reset a Windows password for a friend who's daughter changed the administrator password on his Windows desktop. 
+
+Using N9 and Sailfish phones.
+
+Using a deprecated PC as a cheap but powerful media center with GeeXbox.
+
+Video on the command line.
+
+Video streaming a DVB-S signal to LAN via Multicast using VLC.
+
+Viewed Netflix with Pipelight!
+
+WAN monitor with text to voice phone calls from Asterisk.
+
+Watch European cable TV in the US with a pair of Raspberry Pis and a USB Tuner.
+
+Windows password crack.
+
+Work exclusively with Linux for the last 20 years.
+
+Worked in scientific research with Linux for the last 20 years.
+
+Write my own Point of Sale system with PHP/Apache/MySQL.
+
+Written a novel.
+
+Wrote a music composition program using genetic programming.
+
+Wrote a short book using LibreOffice and being able to read e-Books using eVince.
+
+Wrote bespoke Amiga ROM extractor.
+
+Wrote software for OpenEEG device.
+
+XBMC on RPi as mobile video player. It has the most WAF from all my projects.
+
+Audio bridge to my old analog stereo using a Raspberry Pi and arch arm.
+
+Automated most of my job away.
+
+Backup remote servers to my server, restore them into virtual machines as an archive.
+
+Backups based on cronjob and rsync.
+
+BitTorretsync for all my devices then backed up with Crashplan.
+
+Booting with “init=/usr/bin/emacs”.
+
+BTRFS raid0 with two SSDs on an ultrabook.
+
+Build a full enterprise network out of virtual machines including routers and switches.
+
+Build a Linux-powered remote-controlled boiling water cannon from an old Nespresso machine.
+
+Build and run a laboratory information system.
+
+Built an HD 3D streaming to webrtc bridge for doing streaming Web conferences in HD in Chrome.
+
+Built an automated blackjack dealer.
+
+Built an image processing module on a GumStix for optically controlling a quad-rotor drone.
+
+Chemometrics.
+
+Coherence checks on clinical systems.
+
+Compiler/make package to build a 5M non-comment lines of code.
+
+Completely set it up and customized in 20 mins.
+
+Create django-based web app that uses the computing library from another system.
+
+Developing Sailfish OS.
+
+Dual-boot two distros! For a technophobe like me that's a big deal!
+
+Edit my photos with RawTherapee, and blog with WordPress.
+
+Editing audio with Audacity.
+
+Flushed my toilet from another city.
+
+Getting freebsd working on a old sparc system!
+
+Had a Linux-hater use a desktop, and not realize it was Linux.
+
+Hydroponics system with periodic watering and level sensors controlling the pump.
+
+I have an Odroid at home that I use for almost everything. Since cifs shares to dlna server.
+
+Killed unity with gnome-panel/compiz/nemo-combo.
+
+Lately? Kerbal Space program.
+
+Microwave transmissions.
+
+Monitored and controlled a network of 1500 wireless network devices.
+
+Monte-Carlo simulation on a nice cluster of ~500 Linux nodes.
+
+Network security based on Security Onion—awesome project.
+
+Operate my amateur radio gear, ping the space station.
+
+Professional fridge monitoring using 4 Raspberry Pis to check 9 separate locations.
+
+Read Linux Journal.
+
+Record what I am listening to on the computer.
+
+Recovering photos from a damaged SD card.
+
+Remote admin of my Mum's Mac across the country.
+
+Remote chicken door.
+
+Replaced the lock on the front door with RPi-powered numpad.
+
+Replacing as400 terminals by cheap fat clients with tinycore Linux over tftp/tn5250.
+
+Root my phones.
+
+Script that prevent ddos attacks.
+
+Setup a Varnish cluster.
+
+Setup a mesh Wi-Fi network in an urban area, for traffic light control.
+
+SSH to my phone.
+
+Ticket scanning solution with Raspbian and flask tool to manage 10+ file sharing server (samba) via a Web interface.
+
+Trying to learn programming with Ruby on my own.
+
+Typesetting with groff, grap and pic.
+
+Weather station (weewx), ham radio control (fldigi).
+
+Weather/flood monitoring station with iridium sms on Raspberry Pi.
+
+Web-controlled integrated circuit wafer probe test system.
+
+I watched local TV over a DNS tunnel on a remote island in Indonesia and instructed my printer to have some books ready when I got home. This was 15 years ago.
+
+Used a single bash command line to count all unique words in a book-length document (using tr/sort/uniq).
+
+Implemented an entire Internet-accessible network at a community college, including routers and servers.
+
+Web-based sprinkler controller for 16 stations on a Raspberry Pi (also control the pool and yard lights.
+
+Measuring electrical power usage at our home where every watt used is entered into a MySQL database.
+
+Built a box that sits atop the refrigerator and logs the fridge and freezer temperatures AND displays the current up-to-the-minute weather forecast.
+
+Migrated an entire Web server/Samba server/Cyrus IMAP server from Fedora on x86_64 to Arch Linux on Raspberry Pi ARMv6.
+
+Built a physical version of the Android game Spaceteam with 4 large consoles covered in displays and switches.
+
+Used a couple of tools to de-obfuscate obfuscated java code and created diffs between multiple patched versions of this code and applied those patches to the original app to have all features of the patched versions in one app.
+
+Created a encrypted RAID'd home server that uses a USB stick as the key to auto-unlock the drive encryption.
+
+Solved the supposedly impossible for a large government department getting the data off a mainframe using Linux and all sorts of tools.
+
+Built a router out of an old PIII workstation with two NICs using iptables using Linux and much more, and built a private cloud with OpenStack.
+
+Run a gigantic radio telescope to investigate the local universe - mostly focused on dark energy. Seriously, so cool.
+
+Installed a PFsense box with two factor authentication to my LAN, which I used to mange my home (Linux machines) when I was bored with my Windows world at work.
+
+Deployed 20 servers to calculate and display the results of a complex algorithm in a single command using SaltStack.
+
+Transparent bridge with packet emulation to re-create the conditions of the Internet on our network communications in a lab environment.
+
+Reverse-engineered network protocol on closed-source Windows punch clock app and then wrote a clone on BASH. Years later rewrote it in Python.
+
+A PBX for a non-profit organization, using an old carrier router (Vodafone Station), a USB GSM dongle and some other spare parts, using OpenWRT.
+
+Use it every day, it's in my pocket and on my TV. It wakes me up and helps me to sleep. And will probably become Skynet.
+
+Irrigation system for my balcony garden using an Arduino and some Python daemons running on a server for deciding if it needs watering or not and how much based on weather forecasts and terrain humidity.
+
+Compile and package heavy software (NumPy, SciPy, Cython, etc) on devices (Nokia N900, Nokia N9, etc) running mobile Linux (Maemo 5, MeeGo Harmattan).
+
+Perl script to launch rdiff-backup in a remote mode in a multiuser environment optimizing the CPU load.
+
+Using a Raspberry Pi, a servo, a Yubikey and YubiRadius server, I made a door lock that only opened if the correct Yubikey was plugged in. The Raspberry Pi would take the one time password and ask the server if it was legit, and if so, the door unlocks.
+
+Isn't everything involving Linux cool? I live in Sweden but had traveled to Morocco to visit my wife's family. While there, I had a problem with the bank. So I used my Linux-loaded USB-stick I brought with me and then ssh -X to my computer at home, started Firefox over the line and logged in to my bank to fix the issue.
+
+Set up a home network using Samba as the file server, including a Web server, DNS server with four 2+ TB drives mirrored in sets of two with XFS files system (based on an article from Linux Journal).
+
+I wrote this simple Python program for live desktop wallpaper: sourceforge.net/projects/portalviewlivew. Not fancy or impressive, but for a 50+ grandmother who recently learned Python, it felt good to give something back to the Linux/Open Source community, and I get to enjoy the program I've been waiting years for someone to write.
+
+Real-time data acquisition: connecting your exercise bike to Informix.
+
+Data acquisition system for characterization and qualification of radiation detectors.
+
+Setup a document management system from scratch with Debian and Plone in half a day (the first Linux server in the company where I work. Now 80% of my servers run Red Hat Linux).
+
+Watched VVVID (video streaming service) from an iPad app to a TV using my homemade media center made with Linux (Ubuntu 10.04 on a fanless low-power-consumption board) via XBMC! Well, I manage hundreds of Windows workstations too at work with Linux servers and tools.
+
+Supercomputing on a supercomputer...since almost 100% of them run Linux. The speed tests were amazing.
+
+My old Fujitsu Siemens s series lifebook got a new life with Linux. I'm still using it. This machine is 12 years old. Cool, eh?
+
+Convert home network servers from a big VMware box to small Intel NUCs running XenServer and Ubuntu.CentOS VM Guests.
+
+I have a complete home network with Linux, from my router to my FTP/media server, 6 desktops, 4 laptops, two quilting machines running on Linux for my wife, and three tablets. At work (I work in IT at a casino), we have moved from pizza boxes to a VM using Cisco UCS and EMC storage.
+
+Chaining ssh-tunnels together to get from work to home via three hops due to restrictive network settings.
+
+Run an in-house radio station via a Raspberry Pi and pifm, icecast, the opus audio codec, and ffmpeg (experimental: project still in progress).
+
+I nominated Richard Nixon as the next President, even though he's already passed away, using only sed on the command line!
+
+Scripted out an entire environment in 2 hours, which normally takes 40 hours (note: Chef helped a lot).
+
+Create and manage a backup solution for my customers using 7 servers connected over OpenVPN, and the servers are in different cities, countries and continents!
+
+My Master's project: expanding and documenting a university-sited analytical instruments network, which uses a Slackware server.
+
+Built a system that monitors a renewable energy installation with two fixed solar arrays, a two-axis sun-tracking solar array, and a wind turbine. Production and weather data are displayed on a Web site in real time.
+
+Created a real-time watermark embedding system for streaming recorded lectures with the viewer's name embedded in the video (for copyright protection).
+
+1) Setup a Raspberry Pi and camera module home security system. Used my Jolla mobile phone with SSH to control, modify and view the system. 2) Built a hardware startup community utilizing Drupal on a LAMP server.
+
+Multi-site mobile one-time-password authentication servers using motp-as, mysql replication, apache, php, and free radius.
+
+Monitor 200 devices and 1000 services with nagios, saving our organization 1000s of dollars in licensing costs.
+
+Used it to model communication flow through a naval ship's NMEA data bus, showing “choke points” and potential for future growth. This enabled the addition of new sensors to provide more situational awareness within the Navy.
+
+Rebuilt a system from scratch without reboot or data loss after deleting /usr by accident. Given Linux systems to help a remote area in Africa get Internet access and recovered a deleted university thesis.
+
+Writing a FAT32 driver in Java on a Nokia N900, to restore a deleted squirrel video i took at Yosemite, while driving through Nevada on my holidays.
+
+Synchronized time-lapse of the met office weather map and the view of rain from my home, for the duration of a holiday in the sun.
+
+I model ancient ecosystems and simulate major disruptions, such as asteroid impacts and magmatic province eruptions. All on Linux.
+
+Running a complete Fedora server on a Hardkernel Odroid-U3 in the pocket of my coat with a battery pack for a couple of hours.
+
+Setup a fully working 64-node cluster in less than a morning using a Linux laptop with dhcpd/pxe/anaconda.
+
+Turned an interested but bemused 78-year-old Windows 7 user into a confident IT learner and user by installing Ubuntu 14.04 after Win7 crashed four times in 18 months on a brand-new laptop. Now undertaking Web site maintenance work unsupervised.
+
+I recompiled a plain vanilla Linux kernel, stripped it down to what I needed and patched it as my default kernel in Ubuntu 8.04 and it worked! I did this years ago. It was absolutely unstable and glitched all the time but was usable. I really enjoyed that experience and I looked forward to Linux's growth moving forward.
+
+Recycled bare-bones refurbished PCs by installing Linux and saving a bundle of money because of sharply reduced hardware costs.
+
+My ISP doesn't allow me to have more than one machine connected to the same Internet connection after I use port forwarding for my own home LAN. They do this by limited the TTL (Time to Live) value in the IP header to 1 hop. I use iptables to successfully increase the TTL value to allow for more computers on my network to utilize the Internet connection, using the following rule: iptables -t mangle -A PREROUTING -j TTL --ttl-inc.
+
+Ran a gateway/firewall on Debian Linux with DHCP, DNS, VPN, SSH, Samba file server, etc., for nine years on the same hardware; ran for 200–300 days at a time without a reboot.
+
+Setup a PC rental shop so when units were returned they could be PXE-booted and crunch for seti@home. This was based on Edubuntu.
+
+My own CI build farm and automated testing using Raspberry PI (HW), Jenkins (Builds), SaltStack (Jenkins and test setup), Yocto (build and variation) and Python (test cases).
+
+Activity monitoring system with mood recognition that plays back appropriate music or video, automatically turns on/off screens and lights.
+
+A few years ago, I built a MAME cabinet powered by an old PIII running Xubuntu. My design skills need improvement, but it worked great!
+
+A long term (1 year) project where I administered a colocated Linux server that had no firewall (used only tcpwrappers). Host was serving web pages and files to the world. At no point did the server ever get compromised.
+
+Phone switch out of a pogo plug that automatically dials out at 4 am to reserve a tee time at the local golf club.
+
+Back in the days of modems, I had my computer call up my girlfriend every morning, so she would wake up and to to work.
+
+Prediction of daily sales of bread for the retail company in Slovenia (for each shop separately, approx. 500 shops).
+
+Converted my cassette tapes to audio files. Yeah, I know, what could be cooler than hearing all that music on warped, partially eaten cassette tape, right?
+
+Converting consumer wireless routers into powerhouses letting me replace several servers and systems with a drop-in little device.
+
+Set up PXE-boot clustered servers in an aircraft for ground imagining in Afghanistan. Images would be transmitted to a ground station, where they would be streamed to Linux servers and ultimately displayed on MS Windows laptops.
+
+Created an multimedia art installation using Webcams and ZoneMinder to trigger changes to a display.
+
+A tee device that transparently captures printer jobs and back up the stream and a pdf for archive purposes.
+
+The best thing I have developed with Linux was a server's software that concentrates and manages multiple TCP connections with remote terminal units that is used by a great oil and gas company.
+
+I have a Plugable USB 2.0 Universal Laptop Docking Station hooked to my Fedora 20 workstation. It creates a second terminal so two people can be logged in to the computer at the same time [like Linux and Unix are supposed to do. I'm typing on that terminal. That's because my 12-yo grandson is on my main keyboard and screen in a Google Plus Hangout with his friend, screen-sharing his running program “Wizards 101”, which is a Windows game running under wine. If that ain't cool, I don't know what is.
+
+Peel code to pull info from 6000 employees to select a few to attend a meeting with the CEO each month. No management, and no repeats.
+
+Used a Wii controller, though Bluetooth, with my Linux computer as a Infrared Camera, to detect the movement of my daughter's Fisher Price Sit and Spin Pony, and to control a video game.
+
+Integrate open-source ERP, payment gateway Web service and postal delivery Web service to create an end-to-end automated e-commerce system with 100% open-source software and tools.
+
+Record football games in glorious high definition, including stopping the recording when the game is actually over, not when the scheduled broadcast slot ends. Never miss overtime again!
+
+Used it to reset a Windows password for a friend who's daughter changed the administrator password on his Windows desktop. 
